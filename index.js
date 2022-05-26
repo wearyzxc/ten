@@ -1,4 +1,4 @@
-const ITEMS_NOSTRUM = [184659, 201005, 201022, 855604, 201006, 201007, 201008, 280060],
+const ITEMS_NOSTRUM = [280060], // Menma
       ITEMS_NOCTENIUM = [100451], // JP
       BUFFS_NOSTRUM = [
         4020, 4021, 4024, 4025, //Prime Battle Solution, (Guide)
